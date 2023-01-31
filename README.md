@@ -1,4 +1,6 @@
-### Hi there👋
+### Hi, I'm Swikriti 👋
+
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=swikritii.swikritii) -->
 
 <!--
 **swikritii/swikritii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
