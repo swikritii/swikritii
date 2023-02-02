@@ -2,6 +2,8 @@
 
 <br/>
 
+## About Me
+
 - 🔭 I’m currently working in the role of Frontend Developer
 - 🌱 I’m currently learning GraphQl, Component Testing
 - ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.ts`, `.yml`
@@ -9,8 +11,6 @@
 - 📫 How to reach me: https://twitter.com/KcManju7
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Exploring the universe through documentaries, diving into the World of History
-
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=swikritii.swikritii) -->
 
 <!--
 **swikritii/swikritii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
