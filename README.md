@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on Open Source projects
 - 📫 How to reach me: https://twitter.com/KcManju7
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Exploring the universe through projects, diving into the World of History
+- ⚡ Fun fact: Exploring the universe through documentaries, diving into the World of History
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=swikritii.swikritii) -->
 
