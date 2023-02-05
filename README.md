@@ -1,3 +1,4 @@
+<img src="./banner-svg"/>
 <h1 align="center" position="absolute"> Hi, I'm Swikriti 👋 </h1>
 
 <br/>
