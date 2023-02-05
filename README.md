@@ -1,5 +1,8 @@
-<img src="./banner-svg"/>
-<h1 align="center" position="absolute"> Hi, I'm Swikriti 👋 </h1>
+
+
+<div align="center">
+  <img src="./banner.svg"/>
+</div>
 
 <br/>
 
