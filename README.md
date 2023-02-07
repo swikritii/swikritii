@@ -18,7 +18,7 @@ Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHein
 - 📫 How to reach me: https://twitter.com/KcManju7
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Exploring the universe through documentaries, diving into the World of History
-- 💛 You can reach me at: -> <a  href="https://www.linkedin.com/in/muhammadnoorani/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+- 💛 You can reach me at: -> <a  href="https://www.linkedin.com/in/swikriti-kc/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/Swikriti_Kc7" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 <a href='https://hashnode.com/@Swikrity' target="_blank"><img src="https://avatars.githubusercontent.com/u/16342708?s=200&amp;v=4" width="30" height="30" alt="@Hashnode"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </a>
