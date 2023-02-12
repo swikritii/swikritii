@@ -24,6 +24,12 @@ Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHein
 <a href='https://hashnode.com/@Swikrity' target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="@Hashnode"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </a>
 
+<div>
+  <img src="./black-tea.gif" alt="black-tea" width="80px" />
+  <img src="./computer.gif"  alt="computer" width="60px" />
+  <img src="./music.gif"  alt="music" width="60px" />
+</div> 
+
 <br/>
 
 ## Tools and Techologies
@@ -45,7 +51,6 @@ Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHein
 | `Developer tools` | <img src="https://raw.githubusercontent.com/github/explore/002d791bc68a86506b1bb7a3332bb6ba8e1d1891/topics/chrome/chrome.png" width="30" height="30" alt="chrome logo"> <img src="https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png" width="30" height="30" alt="firefox logo"> |
 | `Online Coding Environments` |  <img src="https://avatars.githubusercontent.com/u/1545643?s=200&amp;v=4" width="30" height="30" alt="@codepen"> <img src="https://avatars.githubusercontent.com/u/32880324?s=200&amp;v=4" width="30" height="30" alt="@codesandbox"> 
 
-<br/>
 
 <br/>
 <br/>
