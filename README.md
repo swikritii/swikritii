@@ -6,9 +6,10 @@
 
 Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 20px>, I'm a passionate frontend developer who strives to maintain the developed codes DRY and have a proclivity towards the aesthetically pleasing interface. I'm constantly on the lookout for growth possibilities in the Web space [ mainly Open Source 🫶 ]
 
+
 <br/>
 
-## About Me 👩‍🦰
+## About Me 👩‍🦰 
 <br/>
 
 - 🔭 I’m currently working in the role of Frontend Developer
@@ -50,7 +51,7 @@ Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHein
 <br/>
    
 <div align="center">
-  <img src="https://github.githubassets.com/images/icons/emoji/tada.png" alt="tada" class="width-full" width="70"/>
+  <img src="./confetti.gif" alt="tada" class="width-full" width="70"/>
   <br/>
   
   <span>Have A Great Day! </span>
