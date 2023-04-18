@@ -16,7 +16,7 @@ Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHein
 - 🌱 I’m currently learning GraphQl, Component Testing
 - ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.ts`, `.yml`
 - 👯 I’m looking to collaborate on Open Source projects
-- 📫 How to reach me: https://twitter.com/KcManju7
+- 📫 How to reach me: [https://twitter.com/Swikriti_Kc7]
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Exploring the universe through documentaries, diving into the World of History
 - 💛 You can reach me at: -> <a  href="https://www.linkedin.com/in/swikriti-kc/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
