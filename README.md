@@ -4,9 +4,9 @@
 
 <br/>
 
-Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 20px>, I'm a passionate frontend developer who strives to maintain the developed codes DRY and have a proclivity towards the aesthetically pleasing interface. I'm constantly on the lookout for growth possibilities in the Web space [ mainly Open Source 🫶 ]
+Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 20px>, I'm a passionate frontend developer who strives to maintain the developed code DRY and has a proclivity towards an aesthetically pleasing interface. I'm constantly on the lookout for growth possibilities in the Web space [ mainly Open Source 🫶 ]
 
-
+Join me on a journey through frontend development 💻, where Javascript 🖥️, React ⚛️ , Typescript 📜, NextJS 🚀 and NodeJS 🌐 are my trusty companions. 
 <br/>
 
 ## About Me 👩‍🦰 
