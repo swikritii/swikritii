@@ -9,10 +9,19 @@ Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHein
 Join me on a journey through frontend development 💻, where Javascript 🖥️, React ⚛️ , Typescript 📜, NextJS 🚀 and NodeJS 🌐 are my trusty companions. 
 <br/>
 
-## About Me 👩‍🦰 
 <br/>
 
-- 🔭 I’m currently working in the role of Frontend Developer
+<div align="center">
+  
+  $\textcolor{magenta}{Coding \ is \ not \ about \ the \ code, \ it's \ about \ the \ process. \ - \ Lafbe \}$
+  
+</div>
+
+
+## $\textcolor{pink}{About \ me \}$ 
+<br/>
+
+- 🔭 I’m currently working in the role of <font color="blue">Frontend Developer</font>
 - 🌱 I’m currently learning GraphQl, Component Testing
 - ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.ts`, `.yml`
 - 👯 I’m looking to collaborate on Open Source projects
@@ -32,7 +41,7 @@ Join me on a journey through frontend development 💻, where Javascript 🖥️
 
 <br/>
 
-## Tools and Techologies
+## $\textcolor{pink}{Tools \ and \ Technology \}$ 
 
 <br/>
 
@@ -59,7 +68,7 @@ Join me on a journey through frontend development 💻, where Javascript 🖥️
   <img src="./confetti.gif" alt="tada" class="width-full" width="70"/>
   <br/>
   
-  <span>Have A Great Day! </span>
+  $\mathbb{\color{magenta}{Have \ a \ Great \ Day! \}}$ 
 </div>
 <!--
 **swikritii/swikritii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
