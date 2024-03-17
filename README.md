@@ -1,3 +1,13 @@
+
+<div align="center">
+
+| `Coding is not about the code, it's about the process - Lafbe` |
+| :---         | 
+
+</div>
+
+<br/>
+
 <div align="center">
   <img src="./banner.svg"/>
 </div>
@@ -11,14 +21,7 @@ Join me on a journey through frontend development 💻, where Javascript 🖥️
 
 <br/>
 
-<div align="center">
-  
-  $\textcolor{magenta}{Coding \ is \ not \ about \ the \ code, \ it's \ about \ the \ process. \ - \ Lafbe \}$
-  
-</div>
-
-
-## $\textcolor{pink}{About \ me \}$ 
+## About me
 <br/>
 
 - 🔭 I’m currently working in the role of <font color="blue">Frontend Developer</font>
@@ -41,7 +44,7 @@ Join me on a journey through frontend development 💻, where Javascript 🖥️
 
 <br/>
 
-## $\textcolor{pink}{Tools \ and \ Technology \}$ 
+## Tools and Technology
 
 <br/>
 
@@ -67,8 +70,7 @@ Join me on a journey through frontend development 💻, where Javascript 🖥️
 <div align="center">
   <img src="./confetti.gif" alt="tada" class="width-full" width="70"/>
   <br/>
-  
-  $\mathbb{\color{magenta}{Have \ a \ Great \ Day! \}}$ 
+  Have a Great Day!
 </div>
 <!--
 **swikritii/swikritii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
