@@ -25,8 +25,9 @@ Join me on a journey through frontend development 💻, where Javascript 🖥️
 <br/>
 
 - 🔭 I’m currently working in the role of <font color="blue">Frontend Developer</font>
-- 🌱 I’m currently learning GraphQl, Component Testing
-- ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.ts`, `.yml`
+- 📚 Continuous learner, always exploring new tools, libraries, and frameworks to improve skills
+- 🖥️ Proficient in modern frontend technologies such as React or NextJs
+- 🚀 Enthusiastic about contributing to open-source frontend projects and communities
 - 👯 I’m looking to collaborate on Open Source projects
 - 📫 How to reach me: [https://twitter.com/Swikriti_Kc7]
 - 😄 Pronouns: She/Her
